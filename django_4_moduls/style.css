@@ -1,0 +1,26 @@
+h1 {
+    background: green;
+}
+
+.parag {
+    font-weight: bold;
+    font-family: Courier;
+    font-style: italic;
+    border: red solid 5px;
+    border-radius: 30px;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 10px 5px 5px green;
+}
+
+.text_1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+    box-shadow: 10px 5px 5px green;
+    border: black solid 5px;
+    border-radius: 30px;
+}
+.photo_1 {
+    width: 1400px
+}
